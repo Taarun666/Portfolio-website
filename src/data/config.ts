@@ -35,9 +35,8 @@ const config = {
     return this.site + "/assets/seo/og-image.png";
   },
   social: {
-    twitter: "https://x.com/nothotchaddi",
     linkedin: "https://www.linkedin.com/in/taarun-nagendra-prasad",
-    instagram: "https://www.instagram.com/hotchaddi",
+    instagram: "https://www.instagram.com/taarun.np",
     facebook: "https://www.facebook.com/HotChaddi/",
     github: "https://github.com/Taarun666",
   },
