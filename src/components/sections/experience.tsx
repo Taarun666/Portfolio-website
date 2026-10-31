@@ -69,9 +69,9 @@ const ExperienceCard = ({
                 {experience.company}
               </div>
             </div>
-            <Badge variant="secondary" className="w-fit font-mono text-xs font-normal">
+            <span className="w-fit font-mono text-xs font-normal text-muted-foreground">
               {experience.startDate} - {experience.endDate}
-            </Badge>
+            </span>
           </div>
         </CardHeader>
         <CardContent className="space-y-6">
