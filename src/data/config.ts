@@ -24,7 +24,7 @@ const config = {
     "Framer Motion",
   ],
   author: "Taarun Nagendra Prasad",
-  email: "naresh.khatri2345@gmail.com",
+  email: "taarun@advohq.in",
   site: "https://nareshkhatri.site",
 
   // for github stars button
@@ -36,10 +36,10 @@ const config = {
   },
   social: {
     twitter: "https://x.com/nothotchaddi",
-    linkedin: "https://www.linkedin.com/in/naresh-khatri/",
+    linkedin: "https://www.linkedin.com/in/taarun-nagendra-prasad",
     instagram: "https://www.instagram.com/hotchaddi",
     facebook: "https://www.facebook.com/HotChaddi/",
-    github: "https://github.com/Naresh-Khatri",
+    github: "https://github.com/Taarun666",
   },
 };
 export { config };
