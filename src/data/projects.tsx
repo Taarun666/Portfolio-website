@@ -258,7 +258,7 @@ const projects: Project[] = [
     id: "6-axis-robotic-arm",
     category: "Robotics",
     title: "6-Axis Robotic Arm",
-    src: "https://opengraph.githubassets.com/1/Taarun666/6-axis-robotic-arm",
+    src: "/assets/projects/6-axis-robotic-arm.jpg",
     screenshots: [],
     skills: {
       frontend: [PROJECT_SKILLS.arduino, PROJECT_SKILLS.esp],
@@ -287,7 +287,7 @@ const projects: Project[] = [
     id: "half-a-brain",
     category: "AI / Self-Hosted",
     title: "Half-a-Brain",
-    src: "https://opengraph.githubassets.com/1/Taarun666/Half-a-Brain",
+    src: "/assets/projects/half-a-brain.jpg",
     screenshots: [],
     skills: {
       frontend: [PROJECT_SKILLS.ts],
@@ -316,7 +316,7 @@ const projects: Project[] = [
     id: "test-toe",
     category: "AI Security",
     title: "Test Toe",
-    src: "https://opengraph.githubassets.com/1/Taarun666/test-toe",
+    src: "/assets/projects/test-toe.webp",
     screenshots: [],
     skills: {
       frontend: [PROJECT_SKILLS.ts],
@@ -345,7 +345,7 @@ const projects: Project[] = [
     id: "notes-maker",
     category: "Productivity",
     title: "Notes Maker",
-    src: "https://opengraph.githubassets.com/1/Taarun666/notes-maker",
+    src: "/assets/projects/notes-maker.png",
     screenshots: [],
     skills: {
       frontend: [],
