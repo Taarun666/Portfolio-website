@@ -410,7 +410,7 @@ export const EXPERIENCE: Experience[] = [
     description: [
       "Contributed to the design and development of an automated indoor farming system, focusing on hardware integration and control systems.",
       "Designed structural components and housing units for sensor modules, optimising for manufacturability and durability.",
-      "Assisted in prototyping and testing embedded systems based on Arduino and Raspberry Pi for environmental monitoring.",
+      "Assisted in prototyping and testing embedded systems for environmental monitoring.",
       "Developed and troubleshot electronic circuits for power management and actuator control, ensuring system reliability.",
       "Collaborated with a cross-functional team to integrate hardware with software control platforms, supporting the full product development lifecycle.",
     ],
