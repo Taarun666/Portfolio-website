@@ -316,7 +316,7 @@ const projects: Project[] = [
     id: "test-toe",
     category: "AI Security",
     title: "Test Toe",
-    src: "/assets/projects/test-toe.webp",
+    src: "/assets/projects/test-toe.png",
     screenshots: [],
     skills: {
       frontend: [PROJECT_SKILLS.ts],
